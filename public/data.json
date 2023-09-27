@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/FsSFnnc/1.jpg",
+      "title": "Medical Supplies for Local Clinics",
+      "category": "Health",
+      "category_bg_color": "#FF5733",
+      "card_bg_color": "#FFD700",
+      "text_button_bg_color": "#4CAF50",
+      "description": "Help provide essential medical supplies to local clinics, ensuring that they can continue to serve those in need. Your donation will make a meaningful impact on the health and well-being of our community.",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/5ML7y06/2.jpg",
+      "title": "Clothing Drive for Homeless Individuals",
+      "category": "Clothing",
+      "category_bg_color": "#3399FF",
+      "card_bg_color": "#FFA07A",
+      "text_button_bg_color": "#8A2BE2",
+      "description": "Support our clothing drive to provide warm clothing to homeless individuals during the upcoming winter season. Your donation will help keep them safe and comfortable.",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/cD0rD92/3.jpg",
+      "title": "Food Assistance for Families in Need",
+      "category": "Food",
+      "category_bg_color": "#FF5733",
+      "card_bg_color": "#FFD700",
+      "text_button_bg_color": "#4CAF50",
+      "description": "Contribute to our food assistance program, which aims to provide nutritious meals to families facing food insecurity. Your donation will help alleviate hunger in our community.",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/hMzDXKh/4.jpg",
+      "title": "Scholarships for Underprivileged Students",
+      "category": "Education",
+      "category_bg_color": "#3399FF",
+      "card_bg_color": "#FFA07A",
+      "text_button_bg_color": "#8A2BE2",
+      "description": "Support our scholarship program to give underprivileged students the opportunity to pursue higher education. Your donation will empower them to achieve their dreams and build a brighter future.",
+      "price": 59.99
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/6bxt25Z/5.jpg",
+      "title": "Dental Care for Low-Income Individuals",
+      "category": "Health",
+      "category_bg_color": "#FF5733",
+      "card_bg_color": "#FFD700",
+      "text_button_bg_color": "#4CAF50",
+      "description": "Provide access to dental care for low-income individuals who may not have the means to afford it. Your donation will help improve their oral health and overall well-being.",
+      "price": 69.99
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/6ybC9xZ/6.jpg",
+      "title": "Winter Jackets for Children in Need",
+      "category": "Clothing",
+      "category_bg_color": "#3399FF",
+      "card_bg_color": "#FFA07A",
+      "text_button_bg_color": "#8A2BE2",
+      "description": "Donate winter jackets to children in need, ensuring they stay warm during the cold months. Your contribution will bring comfort and protection to these young lives.",
+      "price": 79.99
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/PMC9XbT/7.jpg",
+      "title": "Emergency Food Relief for Vulnerable Families",
+      "category": "Food",
+      "category_bg_color": "#FF5733",
+      "card_bg_color": "#FFD700",
+      "text_button_bg_color": "#4CAF50",
+      "description": "Support our emergency food relief program, providing immediate assistance to vulnerable families facing food shortages. Your donation will make a significant difference in their lives.",
+      "price": 89.99
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/5xTV7bh/8.jpg",
+      "title": "Books and Supplies for Students in Need",
+      "category": "Education",
+      "category_bg_color": "#3399FF",
+      "card_bg_color": "#FFA07A",
+      "text_button_bg_color": "#8A2BE2",
+      "description": "Contribute to our initiative to provide essential books and supplies to students from low-income families. Your donation will support their educational journey and brighten their future prospects.",
+      "price": 99.99
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/LSqn8rd/9.jpg",
+      "title": "Vaccination Drive for Underserved Communities",
+      "category": "Health",
+      "category_bg_color": "#FF5733",
+      "card_bg_color": "#FFD700",
+      "text_button_bg_color": "#4CAF50",
+      "description": "Help organize a vaccination drive for underserved communities, ensuring access to life-saving vaccines. Your donation will contribute to the health and safety of these vulnerable populations.",
+      "price": 109.99
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/g7WgjrK/10.jpg",
+      "title": "Warm Blankets for Homeless Individuals",
+      "category": "Clothing",
+      "category_bg_color": "#3399FF",
+      "card_bg_color": "#FFA07A",
+      "text_button_bg_color": "#8A2BE2",
+      "description": "Donate warm blankets to homeless individuals, providing them with comfort and protection against the elements. Your contribution will bring warmth and hope to those in need.",
+      "price": 119.99
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/RYzCqqv/11.jpg",
+      "title": "Nutrition Programs for Low-Income Families",
+      "category": "Food",
+      "category_bg_color": "#FF5733",
+      "card_bg_color": "#FFD700",
+      "text_button_bg_color": "#4CAF50",
+      "description": "Support nutrition programs that provide essential meals to low-income families, promoting their health and well-being. Your donation will make a positive impact on their lives.",
+      "price": 129.99
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/TtpgPPL/12.jpg",
+      "title": "Tutoring and Mentoring for At-Risk Students",
+      "category": "Education",
+      "category_bg_color": "#3399FF",
+      "card_bg_color": "#FFA07A",
+      "text_button_bg_color": "#8A2BE2",
+      "description": "Contribute to our tutoring and mentoring program, providing academic support and guidance to at-risk students. Your donation will empower them to overcome challenges and succeed in their studies.",
+      "price": 139.99
+    }
+  ]
+  
